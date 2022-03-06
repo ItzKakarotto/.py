@@ -1,4 +1,4 @@
-#HANGMAN - Day 3 - 05/03/2022
+#HANGMAN - DAY 3
 #WRITTEN BY - GitHub.com/ItzKakarotto
 
 #ASCII - gist.github.com/chrishorton/8510732aa9a80a03c829b09f12e20d9c & ascii.co.uk/art/hangman
